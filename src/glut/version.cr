@@ -1,0 +1,6 @@
+module GLUT
+  VERSION = "0.1.0"
+
+  GLUT_API_VERSION         = 4
+  GLUT_XLIB_IMPLEMENTATION = 13
+end
